@@ -1,2 +1,4 @@
 # Master test chat app
- Chat app with React and expo
+ Chat app cu React , expo si firebase.
+ 
+ ![]
