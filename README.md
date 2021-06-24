@@ -2,4 +2,4 @@
 
  Chat app cu React , expo si firebase.
  
- ![](aaa.jpg)
+ ![](aaa.jpeg)
